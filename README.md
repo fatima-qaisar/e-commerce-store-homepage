@@ -60,13 +60,6 @@ E-Commerce-Store-Homepage/
 
 ---
 
-## ⚠️ Disclaimer
-
-This project is **for educational purposes only**.
-All logos, images, and design elements are used to **practice front-end development skills** and **do not imply affiliation with any real-world company**.
-
----
-
 ## 📈 Learning Outcomes
 
 By completing this project, I practiced:
