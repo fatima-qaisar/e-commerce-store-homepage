@@ -1,6 +1,6 @@
 # E-Commerce Store Homepage
 
-This project is a **homepage clone of a popular e-commerce store**, created as a **practice project** to improve front-end development skills. 
+This project is a **homepage clone of a popular e-commerce store**, created as a **practice project** to improve front-end development skills. It was built as part of the JavaScript coursse by Apna College. 
 
 It demonstrates **HTML and CSS skills** by replicating a typical e-commerce homepage layout, including the navigation bar, hero section, product sections, and footer.
 
