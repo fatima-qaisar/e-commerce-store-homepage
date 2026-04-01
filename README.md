@@ -1,6 +1,6 @@
 # E-Commerce Store Homepage
 
-This project is a **homepage clone of a popular e-commerce store**, created as a **practice project** to improve front-end development skills. It was built with the help of a tutorial by Apna College. 
+This project is an **Amazon homepage clone**, created to practice front-end web development. It was built with the help of a tutorial by Apna College. 
 
 It demonstrates **HTML and CSS skills** by replicating a typical e-commerce homepage layout, including the navigation bar, hero section, product sections, and footer.
 
@@ -60,24 +60,8 @@ E-Commerce-Store-Homepage/
 
 ---
 
-## 📈 Learning Outcomes
-
-By completing this project, I practiced:
-
-* Structuring a **complex web page layout**
-* Using **CSS Flexbox** for responsive design
-* Styling navigation bars, hero sections, and footers
-* Implementing **hover effects and interactive UI elements**
-
----
-
 ## 📌 How to View
 
-1. Clone the repository:
-
-   ```bash
-   https://github.com/fatima-qaisar/e-commerce-store-homepage.git
-   ```
-2. Open `index.html` in your web browser.
+Clone the repo and open `index.html` in your browser.
 
 
