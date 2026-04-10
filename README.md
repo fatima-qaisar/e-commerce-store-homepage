@@ -1,4 +1,4 @@
-# E-Commerce Store Homepage
+# Amazon Homepage
 
 This project is an **Amazon homepage clone**, created to practice front-end web development. It was built with the help of a tutorial by Apna College. 
 
